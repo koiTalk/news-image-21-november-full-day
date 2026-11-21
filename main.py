@@ -570,7 +570,7 @@ MEDIUM = [
     dict(kind='cartel', headline='MEXICO CAPTURES FBI MOST-WANTED EL CHAPO ISIDRO',
          body='Troops in Sinaloa arrested Fausto Isidro Meza Flores and two other leaders.'),
     dict(kind='wck', headline='ISRAELI STRIKE KILLS 3 IN WCK VEHICLE IN GAZA',
-         body='Three Palestinians were killed in a vehicle carrying aid for World Central Kitchen.'),
+         body='Three Palestinians were killed in a World Central Kitchen aid vehicle.'),
     dict(kind='trade', headline='EU-INDONESIA FREE-TRADE DEAL AFTER 10 YEARS',
          body='The deal opens markets for both sides amid tariff tensions.'),
     dict(kind='robots', headline='UN FAILS TO REGULATE KILLER ROBOTS',
